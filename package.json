@@ -19,5 +19,8 @@
   "homepage": "https://github.com/AmaduKamara/brad-jest#readme",
   "devDependencies": {
     "jest": "^27.4.3"
+  },
+  "dependencies": {
+    "axios": "^0.24.0"
   }
 }
